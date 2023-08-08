@@ -1,0 +1,33 @@
+/* Basic styling for header and navigation */
+header {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav li {
+    cursor: pointer;
+  }
+  
+  /* Styling for About Me section */
+  #about {
+    padding: 2rem;
+  }
+  
+  .profile {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .profile img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
