@@ -1,3 +1,55 @@
+# My React Portfolio
+
+![Project Screenshot](screenshot.png)
+
+## Description
+
+This is my personal portfolio website built using React. It showcases my projects, provides information about me, and offers a way for visitors to contact me.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
+
+## Demo
+
+You can see the live demo of the portfolio [here](https://kajianpulenthirasingam.github.io/reactprofile/).
+
+## Features
+
+- About Me section with a brief bio and photo/avatar.
+- Portfolio section showcasing projects with links to the live demo and GitHub repository.
+- Contact form allowing visitors to send messages directly to the owner.
+- Responsive design, ensuring the website looks good on various devices.
+
+## Technologies Used
+
+- React
+- React Router
+- HTML5
+- CSS3
+- JavaScript
+
+## Installation
+
+1. Clone the repository:
+2. npm install
+
+The portfolio will be accessible at `http://localhost:3000` in your web browser.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [kajianpulenthirasingam@gmail.com](mailto:kajianpulenthirasingam@gmail.com).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
