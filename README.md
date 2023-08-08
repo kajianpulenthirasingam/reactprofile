@@ -1,6 +1,6 @@
 # My React Portfolio
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Capture.PNG)
 
 ## Description
 
