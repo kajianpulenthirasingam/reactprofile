@@ -13,7 +13,7 @@ const Resume = () => {
   return (
     <section id="resume">
       <h2>Resume</h2>
-      <a href="link-to-your-resume.pdf" download>
+      <a href="https://docs.google.com/document/d/1WG-Mm9A-qUznjiGN5UTvewF_WgZEADBP/edit?usp=sharing&ouid=116002456890298908150&rtpof=true&sd=true" download>
         Download Resume
       </a>
       <ul>

@@ -17,7 +17,6 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add form submission logic here (client-side or handle submission later with backend).
     console.log(formData);
   };
 

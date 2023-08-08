@@ -7,7 +7,7 @@ const Footer = () => {
         <a href="https://github.com/kajianpulenthirasingam" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="linkedin.com/in/kajian-p-2bb576263" target="_blank" rel="noopener noreferrer">
           LinkedIn
         </a>
         {/* Add links to other social platforms */}
